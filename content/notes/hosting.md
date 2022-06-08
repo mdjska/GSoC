@@ -18,7 +18,7 @@ Head to the 'Settings' tab of your forked repository and go to the 'Pages' tab.
 
 1. (IMPORTANT) Set the source to deploy from `master` (and not `hugo`) using `/ (root)`
 2. Set a custom domain here if you have one!
-
+![[images/github-pages.png]]
 ![Enable GitHub Pages](/notes/images/github-pages.png)*Enable GitHub Pages*
 
 ### Pushing Changes
