@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Test note
 tags: #GSoC
 - GSoC
 ---
