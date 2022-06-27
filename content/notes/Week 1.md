@@ -1,6 +1,6 @@
 ---
 title: "Week 1"
-tags: 
+enableToc: false
 ---
 #### Goals:
 - [ ] Research the contents of IFC standard in detail and note which classes, attributes and information should be included. 

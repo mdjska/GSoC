@@ -1,6 +1,6 @@
 ---
 title: "Community Bonding Period"
-tags: 
+enableToc: false
 ---
 #### What I managed:
 - Setup this static website and connected it to my PKM/note-taking system

@@ -1,17 +1,15 @@
- ---
+---
  title: "My original proposal"
- tags:
- 
 ---
 #### Related Notes: [Development schedule]([Development_schedule])
 
-## ["Create visual programming nodes for generating BIM data with IfcSverchok" #43](https://github.com/opencax/GSoC/issues/43)
+# Create visual programming nodes for generating BIM data with IfcSverchok
 
 *Also available on the [OSArch Wiki](https://wiki.osarch.org/index.php?title=User:Mdjska).*
 
 ### Project Information
  
-This proposal is written for issue #34, project “Create visual programming nodes for generating BIM data with IfcSverchok” https://github.com/opencax/GSoC/issues/43, written by Dion Moult. The project would primarily contribute to the BlenderBIM project, which in GSoC is part of the IfcOpenShell community. IfcOpenShell operates under the umbrella-organisation BRL-CAD. 
+This proposal is written for issue #34, project [“Create visual programming nodes for generating BIM data with IfcSverchok”](https://github.com/opencax/GSoC/issues/43), written by Dion Moult. The project would primarily contribute to the BlenderBIM project, which is part of the IfcOpenShell community. In GSoC, IfcOpenShell operates under the umbrella-organisation BRL-CAD. 
 
 ## Create visual programming nodes for generating BIM data with IfcSverchok
 

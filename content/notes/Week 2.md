@@ -1,6 +1,6 @@
 ---
 title: "Week 2"
-tags: 
+enableToc: false
 ---
 #### What I managed:
 - Finished the two mockups

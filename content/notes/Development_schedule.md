@@ -1,11 +1,8 @@
- ---
- title: "Rough development schedule"
- tags:
- 
+---
+title: "Rough Development Schedule"
+enableToc: false
 ---
 #### Related Notes: [Project proposal](GSoC_proposal_mdj.md)
-
-# Rough development schedule
 
 The community bonding period should be used to make a thorough review of the project plan in collaboration with the mentor. The ideas outlined in the project description can be added or removed adjusting the scope of the project as needed. Possibilities for further development are many, providing a close to infinite amount of work if desired. But the basic version of the project that I think should possible to finish, should include:
 
