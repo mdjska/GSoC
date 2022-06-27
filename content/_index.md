@@ -13,6 +13,6 @@ These are my working notes and progress log of my work on the [Google Summer of 
 ## Weekly progress log
 [Community Bonding Period](notes/CommunityBondingPeriodSummary.md)
 
-[Week 1](notes/Week 1.md)
+[Week 1](notes/Week_1.md)
 
-[Week 2](notes/Week 2.md)
+[Week 2](notes/Week_2.md)

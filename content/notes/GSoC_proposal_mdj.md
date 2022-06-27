@@ -11,8 +11,6 @@
  
 This proposal is written for issue #34, project [“Create visual programming nodes for generating BIM data with IfcSverchok”](https://github.com/opencax/GSoC/issues/43), written by Dion Moult. The project would primarily contribute to the BlenderBIM project, which is part of the IfcOpenShell community. In GSoC, IfcOpenShell operates under the umbrella-organisation BRL-CAD. 
 
-## Create visual programming nodes for generating BIM data with IfcSverchok
-
 ### Abstract and motivation
 
 Industry Foundation Class (IFC) is the leading open data format for the built environment, based on the [ISO 16739-1:2018](https://www.iso.org/standard/70303.html) standard. It’s the foundation of the openBIM workflow, that ensures the interoperability, longevity and transparency of all BIM data. Today, IFC is most often used as a vendor-neutral and software-agnostic way of exchanging building information, but there is increasing interest in using the IFC schema as the native format for working with BIM data. Native IFC would greatly increase the quality of produced IFC files and ensure no data is lost on import/export. Both IFC and the openBIM process are created by the buildingSMART organisation. 
