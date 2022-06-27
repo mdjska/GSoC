@@ -1,11 +1,11 @@
+ ---
+ title: "Rough development schedule"
+ tags:
+ 
+---
+#### Related Notes: [Project proposal](GSoC_proposal_mdj.md)
 
-
-
-### Deliverables and development schedule
-
-If I’m selected, I would, as a general rule, plan to work on the project around 40 hours a week given the standard 12 week project length. The most important obligations I have are; one exam in at some point in the middle of August, that I would need some time to prepare for, and the semester start on 29/8 (week 12). I finish the spring semester exam period at the end of May, giving me some time to prepare and research before the official coding begins. Depending on the progress made and my availability around the exam and vacation days, a need for extending the project a couple of weeks could be evaluated later on.
-
-### Rough development schedule
+# Rough development schedule
 
 The community bonding period should be used to make a thorough review of the project plan in collaboration with the mentor. The ideas outlined in the project description can be added or removed adjusting the scope of the project as needed. Possibilities for further development are many, providing a close to infinite amount of work if desired. But the basic version of the project that I think should possible to finish, should include:
 
