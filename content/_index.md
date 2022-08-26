@@ -19,7 +19,7 @@ These are my working notes and progress log of my work on the [Google Summer of 
 
 [Week 3](notes/Week_3.md)
 
-[Week 3.5](notes/Week_3.5.md)
+[Week 3.5](notes/Week_3_5.md)
 
 [Week 4](notes/Week_4.md)
 
