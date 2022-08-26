@@ -16,3 +16,11 @@ These are my working notes and progress log of my work on the [Google Summer of 
 [Week 1](notes/Week_1.md)
 
 [Week 2](notes/Week_2.md)
+
+[Week 3](notes/Week_3.md)
+
+[Week 3.5](notes/Week_3.5.md)
+
+[Week 4](notes/Week_4.md)
+
+[Week 5](notes/Week_5.md)
